@@ -1,0 +1,16 @@
+{
+  "name": "codesharex",
+  "version": "1.0.0",
+  "description": "Real-time collaborative document editing and P2P file sharing",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node server/server.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.2"
+  },
+  "keywords": ["webrtc", "websocket", "collaboration", "file-sharing"],
+  "author": "",
+  "license": "MIT"
+}
