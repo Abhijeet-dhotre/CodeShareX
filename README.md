@@ -10,10 +10,6 @@ Real-time collaborative document editing and P2P file sharing application built 
 - **Modern UI**: Clean, responsive design with drag & drop file upload
 - **Progress Tracking**: Real-time transfer speed and progress indicators
 
-## Demo
-
-![CodeShareX Demo](https://via.placeholder.com/800x400?text=CodeShareX+Screenshot)
-
 ## Tech Stack
 
 - **Frontend**: HTML, CSS, Vanilla JavaScript
