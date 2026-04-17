@@ -154,10 +154,6 @@ npm start
 
 MIT License
 
-## Author
-
-[Abhijeet dhotre](https://github.com/Abhijeet-dhotre)
-
 ## Acknowledgments
 
 - [ws](https://github.com/websockets/ws) - WebSocket library for Node.js
